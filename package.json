@@ -1,0 +1,15 @@
+{
+  "name": "zerknotes",
+  "version": "1.0.0",
+  "description": "The best note taking app /j",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Lu Culleton",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.1"
+  }
+}
